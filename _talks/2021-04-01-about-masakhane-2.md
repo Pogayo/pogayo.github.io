@@ -4,7 +4,7 @@ collection: talks
 type: "Podcast"
 permalink: /talks/2021-04-01-about-masakhane-2
 venue: "Allen AI NLP highlights podcast"
-date: 2014-02-01
+date: 2021-04-01
 location: "Remote"
 ---
 
