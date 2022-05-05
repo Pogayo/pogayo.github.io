@@ -32,7 +32,7 @@ Skills
 
 Projects
 ======
-* [AfricanVoices] (https://www.africanvoices.tech/) : We collect, build and share text-to-speech datasets and synthesizers for African languages.
+* [AfricanVoices](https://www.africanvoices.tech/) : We collect, build and share text-to-speech datasets and synthesizers for African languages.
 
 Publications
 ======
