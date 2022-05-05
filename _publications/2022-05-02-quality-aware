@@ -1,0 +1,13 @@
+---
+title: "Quality-Aware Decoding for Neural Machine Translation"
+collection: publications
+permalink: /publication/2022-05-02-quality-aware
+excerpt: 'This paper is about using quality estimations during MT decoding'
+date: 2022-05-04
+venue: 'NAACL 2022'
+paperurl: https://arxiv.org/abs/2205.02022'
+---
+This paper is about using quality estimations during MT decoding
+
+[Download paper here](https://arxiv.org/abs/2205.02022)
+---
