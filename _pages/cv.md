@@ -33,6 +33,7 @@ Skills
 Projects
 ======
 * [AfricanVoices](https://www.africanvoices.tech/) : We collect, build and share text-to-speech datasets and synthesizers for African languages.
+* [Lacuna NER/POS](https://github.com/masakhane-io/lacuna_pos_ner) (June 2021 - Present): Building POS and NER datasets for African languages. Language cordinator for Luo.
 
 Publications
 ======
