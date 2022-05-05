@@ -46,3 +46,4 @@ Talks
 Service and leadership
 ======
 * Researcher at Masakhane focusing on NLP for Luo
+* Co-organiser of [AfricaNLP2022 workshop](https://africanlp.masakhane.io/)  colocated at ICLR 2022.
