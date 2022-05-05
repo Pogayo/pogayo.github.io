@@ -85,7 +85,7 @@ author:
   bio              : "Masters student at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=YEjxAUwAAAAJ"
   email            : "aogayo @ cs.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
