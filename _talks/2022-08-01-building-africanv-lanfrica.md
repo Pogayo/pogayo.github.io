@@ -1,7 +1,7 @@
 ---
 title: "Building African Voices"
 collection: talks
-type: "Podcast"
+type: "Invited talk"
 permalink: /talks/2022-08-01-building-africanv-lanfrica
 venue: "LANFRICA"
 date: 2022-08-01
